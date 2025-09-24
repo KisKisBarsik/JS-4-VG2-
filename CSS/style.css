@@ -1,0 +1,132 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+/* Background image and back design */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: url(https://wallpapers.video/wp-content/uploads/2023/04/hogwarts-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.blur {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 1920px;
+    height: 900px;
+
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6));
+}
+
+/* Background image and back design */
+
+
+
+/* Search input */
+
+.searchInput {
+    display: flex;
+    align-items: center;
+
+    width: 660px;
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.4));
+
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+    border: 2px solid white;
+    border-radius: 5px;
+    outline: none;
+
+    padding: 5px;
+    margin: 50px;
+}
+
+#input0 {
+    width: 600px;
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.4));
+
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+    border: none;
+    outline: none;
+
+    margin: 0;
+    padding: 10px;
+}
+
+#input0::placeholder {
+    color: rgb(204, 204, 204);
+}
+
+#submit0 {
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0));
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.searchIcon {
+    width: 35px;
+
+    margin: 2px 20px 2px 15px;
+}
+
+/* Search input */
+
+
+
+/* Self div with info */
+
+#dataFromAPI {
+    display: none;
+    align-items: center;
+    flex-direction: row;
+
+    width: 900px;
+    height: 600px;
+
+    background: linear-gradient(45deg, rgba(56, 56, 56, 0.96));
+    border: 2px solid white;
+    border-radius: 30px;
+}
+
+#image {
+
+    width: 420px;
+    height: 550px;
+
+    border: 0px;
+    border-radius: 20px;
+
+    margin: 20px;
+}
+
+.textInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+#pInfo0, #pInfo1, #pInfo2, #pInfo3, #pInfo4, #pInfo5, #pInfo6 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+    margin: 10px 0px 10px 60px;
+}
+
+/* Self div with info */

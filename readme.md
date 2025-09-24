@@ -39,7 +39,7 @@ Eksempel:
 ---
 
 ## Mappe struktur
-
+```
   Mappe Uke 39/
   ├── CSS mappe/
   │    └── style.css
@@ -53,7 +53,7 @@ Eksempel:
   (Det finnes index.html fil, som inneholder struktur til nettside)
   (Det finnes script.js fil, som inneholder funksjoner og API connection)
   (Det finnes readme.md fil, som inneholder alt informasjon om selv oppgave)
-
+```
 ---
 
 ## Linker til alle kilder og bilder
@@ -62,6 +62,7 @@ Eksempel:
 **Bakkgrunnsbildet:** https://wallpapers.video/wp-content/uploads/2023/04/hogwarts-2.jpg
 
 ---
+
 
 
 

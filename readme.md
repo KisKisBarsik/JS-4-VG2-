@@ -59,9 +59,11 @@ Eksempel:
 ## Linker til alle kilder og bilder
 
 **API:** https://hp-api.onrender.com/api/characters
+
 **Bakkgrunnsbildet:** https://wallpapers.video/wp-content/uploads/2023/04/hogwarts-2.jpg
 
 ---
+
 
 
 

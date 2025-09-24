@@ -42,13 +42,15 @@ Eksempel:
 ```
   Mappe Uke 39/
   ├── CSS mappe/
+  │    ├── Icons mappe/
+  │    │   └── search.png
   │    └── style.css
   ├── index.html
   ├── script.js
   ├── readme.md
 
   (Det finnes hovedmappe som inneholder alt)
-  (Det finnes mappe med CSS som inneholder style.css fil og bakkgrunnsbildet)
+  (Det finnes mappe med CSS som inneholder style.css fil, mappe med icons og search knappen icon "search.icon")
   (Det finnes style.css fil, som inneholder alle stiler til html struktur)
   (Det finnes index.html fil, som inneholder struktur til nettside)
   (Det finnes script.js fil, som inneholder funksjoner og API connection)
@@ -63,6 +65,7 @@ Eksempel:
 **Bakkgrunnsbildet:** https://wallpapers.video/wp-content/uploads/2023/04/hogwarts-2.jpg
 
 ---
+
 
 
 

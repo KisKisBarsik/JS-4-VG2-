@@ -6,6 +6,8 @@ document.getElementById("submit0").addEventListener("click", function () {
     let myData = document.getElementById("input0").value.toLowerCase()
     const myAPI = "https://hp-api.onrender.com/api/characters"
 
+    console.log(myAPI);
+
     const div = document.getElementById("dataFromAPI")
     div.style.display = "flex";
 

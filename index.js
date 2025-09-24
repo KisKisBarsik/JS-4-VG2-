@@ -6,8 +6,6 @@ document.getElementById("submit0").addEventListener("click", function () {
     let myData = document.getElementById("input0").value.toLowerCase()
     const myAPI = "https://hp-api.onrender.com/api/characters"
 
-    console.log(myAPI);
-
     const div = document.getElementById("dataFromAPI")
     div.style.display = "flex";
 
@@ -19,25 +17,27 @@ document.getElementById("submit0").addEventListener("click", function () {
             // Alternativ #1
             data.forEach(element => {
 
-                if (myData == element.name.toLowerCase()) {
+              if (myData == element.name.toLowerCase()) {
 
-                    document.getElementById("image").src = element.image;
+                  document.getElementById("image").src = element.image;
 
-                    document.getElementById("pInfo0").innerText = "Name: " + element.name;
+                  document.getElementById("pInfo0").innerText = "Name: " + element.name;
 
-                    document.getElementById("pInfo1").innerHTML = "Species: " + element.species;
+                  document.getElementById("pInfo1").innerHTML = "Species: " + element.species;
 
-                    document.getElementById("pInfo2").innerHTML = "Gender: " + element.gender;
+                  document.getElementById("pInfo2").innerHTML = "Gender: " + element.gender;
 
-                    document.getElementById("pInfo3").innerHTML = "House: " + element.house;
+                  document.getElementById("pInfo3").innerHTML = "House: " + element.house;
 
-                    document.getElementById("pInfo4").innerHTML = "Date of birth: " + element.dateOfBirth;
+                  document.getElementById("pInfo4").innerHTML = "Date of birth: " + element.dateOfBirth;
 
-                    document.getElementById("pInfo5").innerHTML = "Year of birth: " + element.yearOfBirth;
+                  document.getElementById("pInfo5").innerHTML = "Year of birth: " + element.yearOfBirth;
 
-                    document.getElementById("pInfo6").innerHTML = "Ancestry: " + element.ancestry;
+                  document.getElementById("pInfo6").innerHTML = "Ancestry: " + element.ancestry;
 
-                }
+              }
+
+              console.log(element);
                 
             });
 

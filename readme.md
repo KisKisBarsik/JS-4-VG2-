@@ -40,12 +40,12 @@ Eksempel:
 
 ## Mappe struktur
 
-  **Mappe Uke 39/**         (Det er hovedmappe)
-  **├── CSS mappe/**        (Det er mappe med CSS)
-  **│    └── style.css**    (style.css fil, som inneholder alle stiler til html struktur)
-  **├── index.html**        (index.html fil, som inneholder struktur til nettside)
-  **├── script.js**         (script.js fil, som inneholder funksjoner og API connection)
-  **├── readme.md**         (readme.md fil, som inneholder alt informasjon om selv oppgave)
+  Mappe Uke 39/         (Det er hovedmappe)
+  ├── CSS mappe/        (Det er mappe med CSS)
+  │    └── style.css    (style.css fil, som inneholder alle stiler til html struktur)
+  ├── index.html        (index.html fil, som inneholder struktur til nettside)
+  ├── script.js         (script.js fil, som inneholder funksjoner og API connection)
+  ├── readme.md         (readme.md fil, som inneholder alt informasjon om selv oppgave)
 
 ---
 
@@ -55,3 +55,4 @@ Eksempel:
 **Bakkgrunnsbildet:** https://wallpapers.video/wp-content/uploads/2023/04/hogwarts-2.jpg
 
 ---
+

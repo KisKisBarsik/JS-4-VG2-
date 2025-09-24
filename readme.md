@@ -3,11 +3,11 @@
 ---
 
 ## Innholdsfortegnelse
-1. [Beskrivelse](#beskrivelse)
-2. [Funksjoner](#funksjoner)
-3. [Bruk](#bruk)
-4. [Mappe-struktur](#mappe-struktur)
-5. [Linker-til-alle-kilder-og-bilder](#linker-til-alle-kilder-og-bilder)
+- [Beskrivelse](#beskrivelse)
+- [Funksjoner](#funksjoner)
+- [Bruk](#bruk)
+- [Mappe-struktur](#mappe-struktur)
+- [Linker-til-alle-kilder-og-bilder](#linker-til-alle-kilder-og-bilder)
 
 ---
 
@@ -40,12 +40,19 @@ Eksempel:
 
 ## Mappe struktur
 
-  Mappe Uke 39/            (Det er hovedmappe)
-  ├── CSS mappe/           (Det er mappe med CSS)
-  │    └── style.css       (style.css fil, som inneholder alle stiler til html struktur)
-  ├── index.html           (index.html fil, som inneholder struktur til nettside)
-  ├── script.js            (script.js fil, som inneholder funksjoner og API connection)
-  ├── readme.md            (readme.md fil, som inneholder alt informasjon om selv oppgave)
+  Mappe Uke 39/
+  ├── CSS mappe/
+  │    └── style.css
+  ├── index.html
+  ├── script.js
+  ├── readme.md
+
+  (Det finnes hovedmappe som inneholder alt)
+  (Det finnes mappe med CSS som inneholder style.css fil og bakkgrunnsbildet)
+  (Det finnes style.css fil, som inneholder alle stiler til html struktur)
+  (Det finnes index.html fil, som inneholder struktur til nettside)
+  (Det finnes script.js fil, som inneholder funksjoner og API connection)
+  (Det finnes readme.md fil, som inneholder alt informasjon om selv oppgave)
 
 ---
 
@@ -55,5 +62,6 @@ Eksempel:
 **Bakkgrunnsbildet:** https://wallpapers.video/wp-content/uploads/2023/04/hogwarts-2.jpg
 
 ---
+
 
 

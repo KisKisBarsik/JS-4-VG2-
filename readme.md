@@ -31,7 +31,7 @@ Dette nettside kan brukes for å finne de flesete karakterer i filem/boka.
 
 Eksempel:
 
-- **Åpne applikasjonen i nettleseren**: Skrive inn på nettleserens søk field denne lenken: 
+- **Åpne nettside i nettleseren**: Skrive inn på nettleserens søk field denne lenken: https://kiskisbarsik.github.io/JS-4-VG2-/
   
 - **Bruke API-et**: 
   - For å hente informasjon om karakter skal du skrive inn navnet til karakteren i søk field på nettside. Da blir dataene fra API hentet automatisk og da blir bildet og faktoer om karakter dukkes opp på skjermen
@@ -65,6 +65,7 @@ Eksempel:
 **Bakkgrunnsbildet:** https://wallpapers.video/wp-content/uploads/2023/04/hogwarts-2.jpg
 
 ---
+
 
 
 
